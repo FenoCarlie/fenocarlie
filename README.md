@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [http://fenocarlie.netlify.app/](http://fenocarlie.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Tech**
 
 - 📫 How to reach me **aidanecarlie@gmail.com**
 
