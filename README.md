@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FENO Aïdane Carlie</h1>
-<h3 align="center">frontend developer & designer</h3>
+<h3 align="center">full-stack developer & designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fenocarlie&label=Profile%20views&color=0e75b6&style=flat" alt="fenocarlie" /> </p>
 
